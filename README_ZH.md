@@ -29,7 +29,7 @@
 
 **版本控制友好：** 从内置代码编辑器中写下您的工作流程，然后直接从Kestra将其推到您喜欢的Git分支，从而使用CI/CD管道和版本控制系统实现最佳实践。
 
-本项目提供的开源镜像商品 [**Kestra数据编排平台**](https://marketplace.huaweicloud.com/hidden/contents/f339961a-eb5a-4c3b-87f1-306496e6368c#productid=OFFI1121282090660507648) 已预先安装0.22.1版本的Kestra及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Kestra数据编排平台**](https://marketplace.huaweicloud.com/contents/f339961a-eb5a-4c3b-87f1-306496e6368c#productid=OFFI1121282090660507648) 已预先安装0.22.1版本的Kestra及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 
 
@@ -43,9 +43,9 @@
 
 ## 镜像说明
 
-| 镜像规格 | 特性说明 | 备注 |
-| --- | --- | --- |
-| [Kestra-v0.22.1](https://github.com/HuaweiCloudDeveloper/kestra-image/tree/Kestra-v0.22.1) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| 镜像规格                                                                                                  | 特性说明 | 备注 |
+|-------------------------------------------------------------------------------------------------------| --- | --- |
+| [Kestra-0.22.1-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/kestra-image/tree/Kestra-v0.22.1) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/kestra-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系

@@ -21,7 +21,7 @@
 - **Scalable:** Designed to handle millions of workflows with high availability and fault tolerance.
 - **Version Control Friendly:** Write your workflows in the built-in code editor and push them directly from Kestra to your preferred Git branch, enabling best practices with CI/CD pipelines and version control systems.
 
-The open-source image product [**Kestra Data Orchestration Platform**](https://marketplace.huaweicloud.com/hidden/contents/f339961a-eb5a-4c3b-87f1-306496e6368c#productid=OFFI1121282090660507648) provided by this project has the Kestra version 0.22.1 and its related runtime environment pre-installed, and also provides deployment templates. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
+The open-source image product [**Kestra Data Orchestration Platform**](https://marketplace.huaweicloud.com/contents/f339961a-eb5a-4c3b-87f1-306496e6368c#productid=OFFI1121282090660507648) provided by this project has the Kestra version 0.22.1 and its related runtime environment pre-installed, and also provides deployment templates. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
 
 > **System Requirements:**
 > - CPU: 2vCPUs or higher
@@ -34,7 +34,7 @@ The open-source image product [**Kestra Data Orchestration Platform**](https://m
 ## Image Description
 | Image Specification | Feature Description | Remarks |
 | --- | --- | --- |
-| [Kestra-v0.22.1](https://github.com/HuaweiCloudDeveloper/kestra-image/tree/Kestra-v0.22.1) | Installed and deployed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Kestra-0.22.1-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/kestra-image/tree/Kestra-v0.22.1) | Installed and deployed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, contact us via [issues](https://github.com/HuaweiCloudDeveloper/kestra-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
