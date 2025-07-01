@@ -32,9 +32,9 @@ The open-source image product [**Kestra Data Orchestration Platform**](https://m
 [Register a Huawei account and activate Huawei Cloud](https://support.huaweicloud.com/usermanual-account/account_id_001.html)
 
 ## Image Description
-| Image Specification | Feature Description | Remarks |
-| --- | --- | --- |
-| [Kestra-0.22.1-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/kestra-image/tree/Kestra-v0.22.1) | Installed and deployed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| Image Specification                                                                                       | Feature Description | Remarks |
+|-----------------------------------------------------------------------------------------------------------| --- | --- |
+| [Kestra-v0.22.1-kunpeng](https://github.com/HuaweiCloudDeveloper/kestra-image/tree/Kestra-0.22.1-kunpeng) | Installed and deployed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, contact us via [issues](https://github.com/HuaweiCloudDeveloper/kestra-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
