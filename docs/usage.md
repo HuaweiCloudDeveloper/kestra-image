@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Kestra数据编排平台](https://marketplace.huaweicloud.com/hidden/contents/f339961a-eb5a-4c3b-87f1-306496e6368c?ticket=ST-848229-b5DwtJkjX1mOf37SSKLkBOKc-sso#productid=OFFI1121282090660507648&locale=zh-cn)
+[Kestra数据编排平台](https://marketplace.huaweicloud.com/contents/f339961a-eb5a-4c3b-87f1-306496e6368c?ticket=ST-848229-b5DwtJkjX1mOf37SSKLkBOKc-sso#productid=OFFI1121282090660507648&locale=zh-cn)
 
 # 二、商品说明
 

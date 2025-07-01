@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Kestra数据编排平台](https://marketplace.huaweicloud.com/hidden/contents/f339961a-eb5a-4c3b-87f1-306496e6368c?ticket=ST-848229-b5DwtJkjX1mOf37SSKLkBOKc-sso#productid=OFFI1121282090660507648&locale=zh-cn)
+- 镜像商品：[Kestra数据编排平台](https://marketplace.huaweicloud.com/contents/f339961a-eb5a-4c3b-87f1-306496e6368c?ticket=ST-848229-b5DwtJkjX1mOf37SSKLkBOKc-sso#productid=OFFI1121282090660507648&locale=zh-cn)
 - 镜像规格：Kestra-v0.22.1
 - 预置环境：Kestra-v0.22.1运行环境
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
